@@ -1,0 +1,14 @@
+D:\Project\NetCore\NetCoreApp\NetCoreApp\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\Project\NetCore\NetCoreApp\NetCoreApp\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Project\NetCore\NetCoreApp\NetCoreApp\bin\Debug\netcoreapp2.0\bundleconfig.json
+D:\Project\NetCore\NetCoreApp\NetCoreApp\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\Project\NetCore\NetCoreApp\NetCoreApp\bin\Debug\netcoreapp2.0\NetCoreApp.deps.json
+D:\Project\NetCore\NetCoreApp\NetCoreApp\bin\Debug\netcoreapp2.0\NetCoreApp.runtimeconfig.json
+D:\Project\NetCore\NetCoreApp\NetCoreApp\bin\Debug\netcoreapp2.0\NetCoreApp.runtimeconfig.dev.json
+D:\Project\NetCore\NetCoreApp\NetCoreApp\bin\Debug\netcoreapp2.0\NetCoreApp.dll
+D:\Project\NetCore\NetCoreApp\NetCoreApp\bin\Debug\netcoreapp2.0\NetCoreApp.pdb
+D:\Project\NetCore\NetCoreApp\NetCoreApp\obj\Debug\netcoreapp2.0\NetCoreApp.csprojAssemblyReference.cache
+D:\Project\NetCore\NetCoreApp\NetCoreApp\obj\Debug\netcoreapp2.0\NetCoreApp.AssemblyInfoInputs.cache
+D:\Project\NetCore\NetCoreApp\NetCoreApp\obj\Debug\netcoreapp2.0\NetCoreApp.AssemblyInfo.cs
+D:\Project\NetCore\NetCoreApp\NetCoreApp\obj\Debug\netcoreapp2.0\NetCoreApp.dll
+D:\Project\NetCore\NetCoreApp\NetCoreApp\obj\Debug\netcoreapp2.0\NetCoreApp.pdb
