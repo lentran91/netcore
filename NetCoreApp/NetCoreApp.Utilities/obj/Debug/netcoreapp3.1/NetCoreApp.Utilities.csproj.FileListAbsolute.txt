@@ -1,0 +1,7 @@
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Utilities\bin\Debug\netcoreapp3.1\NetCoreApp.Utilities.deps.json
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Utilities\bin\Debug\netcoreapp3.1\NetCoreApp.Utilities.dll
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Utilities\bin\Debug\netcoreapp3.1\NetCoreApp.Utilities.pdb
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Utilities\obj\Debug\netcoreapp3.1\NetCoreApp.Utilities.AssemblyInfoInputs.cache
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Utilities\obj\Debug\netcoreapp3.1\NetCoreApp.Utilities.AssemblyInfo.cs
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Utilities\obj\Debug\netcoreapp3.1\NetCoreApp.Utilities.dll
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Utilities\obj\Debug\netcoreapp3.1\NetCoreApp.Utilities.pdb

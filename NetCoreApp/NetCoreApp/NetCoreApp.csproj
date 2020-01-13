@@ -2,14 +2,28 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <UserSecretsId>aspnet-NetCoreApp-9E3A5D74-DE19-4E3F-B36D-6478EE5BC69F</UserSecretsId>
   </PropertyGroup>
+
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.0.3" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.4" PrivateAssets="All" />
   </ItemGroup>
 
   <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.3" />
+    <DotNetCliToolReference Include="Microsoft.Extensions.SecretManager.Tools" Version="2.0.2" />
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NetCoreApp.Application\NetCoreApp.Application.csproj" />
+    <ProjectReference Include="..\NetCoreApp.Data.EF\NetCoreApp.Data.EF.csproj" />
+    <ProjectReference Include="..\NetCoreApp.Data\NetCoreApp.Data.csproj" />
+    <ProjectReference Include="..\NetCoreApp.Infrastructure\NetCoreApp.Infrastructure.csproj" />
+    <ProjectReference Include="..\NetCoreApp.Utilities\NetCoreApp.Utilities.csproj" />
   </ItemGroup>
 
 </Project>

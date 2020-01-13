@@ -1,0 +1,17 @@
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Application\bin\Debug\netcoreapp3.1\NetCoreApp.Application.deps.json
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Application\bin\Debug\netcoreapp3.1\NetCoreApp.Application.dll
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Application\bin\Debug\netcoreapp3.1\NetCoreApp.Application.pdb
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Application\bin\Debug\netcoreapp3.1\NetCoreApp.Data.dll
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Application\bin\Debug\netcoreapp3.1\NetCoreApp.Data.EF.dll
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Application\bin\Debug\netcoreapp3.1\NetCoreApp.Infrastructure.dll
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Application\bin\Debug\netcoreapp3.1\NetCoreApp.Utilities.dll
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Application\bin\Debug\netcoreapp3.1\NetCoreApp.Data.EF.pdb
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Application\bin\Debug\netcoreapp3.1\NetCoreApp.Data.pdb
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Application\bin\Debug\netcoreapp3.1\NetCoreApp.Utilities.pdb
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Application\bin\Debug\netcoreapp3.1\NetCoreApp.Infrastructure.pdb
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Application\obj\Debug\netcoreapp3.1\NetCoreApp.Application.csprojAssemblyReference.cache
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Application\obj\Debug\netcoreapp3.1\NetCoreApp.Application.AssemblyInfoInputs.cache
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Application\obj\Debug\netcoreapp3.1\NetCoreApp.Application.AssemblyInfo.cs
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Application\obj\Debug\netcoreapp3.1\NetCoreApp.Application.csproj.CopyComplete
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Application\obj\Debug\netcoreapp3.1\NetCoreApp.Application.dll
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Application\obj\Debug\netcoreapp3.1\NetCoreApp.Application.pdb

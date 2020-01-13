@@ -1,0 +1,318 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Application\\NetCoreApp.Application.csproj": {}
+  },
+  "projects": {
+    "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Application\\NetCoreApp.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Application\\NetCoreApp.Application.csproj",
+        "projectName": "NetCoreApp.Application",
+        "projectPath": "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Application\\NetCoreApp.Application.csproj",
+        "packagesPath": "C:\\Users\\lentt\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lentt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Data.EF\\NetCoreApp.Data.EF.csproj": {
+                "projectPath": "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Data.EF\\NetCoreApp.Data.EF.csproj"
+              },
+              "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Data\\NetCoreApp.Data.csproj": {
+                "projectPath": "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Data\\NetCoreApp.Data.csproj"
+              },
+              "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Utilities\\NetCoreApp.Utilities.csproj": {
+                "projectPath": "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Utilities\\NetCoreApp.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Data.EF\\NetCoreApp.Data.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Data.EF\\NetCoreApp.Data.EF.csproj",
+        "projectName": "NetCoreApp.Data.EF",
+        "projectPath": "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Data.EF\\NetCoreApp.Data.EF.csproj",
+        "packagesPath": "C:\\Users\\lentt\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Data.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lentt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Data\\NetCoreApp.Data.csproj": {
+                "projectPath": "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Data\\NetCoreApp.Data.csproj"
+              },
+              "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Infrastructure\\NetCoreApp.Infrastructure.csproj": {
+                "projectPath": "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Infrastructure\\NetCoreApp.Infrastructure.csproj"
+              },
+              "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Utilities\\NetCoreApp.Utilities.csproj": {
+                "projectPath": "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Utilities\\NetCoreApp.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Data\\NetCoreApp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Data\\NetCoreApp.Data.csproj",
+        "projectName": "NetCoreApp.Data",
+        "projectPath": "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Data\\NetCoreApp.Data.csproj",
+        "packagesPath": "C:\\Users\\lentt\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lentt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Infrastructure\\NetCoreApp.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Infrastructure\\NetCoreApp.Infrastructure.csproj",
+        "projectName": "NetCoreApp.Infrastructure",
+        "projectPath": "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Infrastructure\\NetCoreApp.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\lentt\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lentt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Utilities\\NetCoreApp.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Utilities\\NetCoreApp.Utilities.csproj",
+        "projectName": "NetCoreApp.Utilities",
+        "projectPath": "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Utilities\\NetCoreApp.Utilities.csproj",
+        "packagesPath": "C:\\Users\\lentt\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\NetCore\\NetCoreApp\\NetCoreApp.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lentt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
