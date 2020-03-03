@@ -1,6 +1,7 @@
 D:\Project\NetCore\NetCoreApp\NetCoreApp.Utilities\bin\Debug\netcoreapp2.0\NetCoreApp.Utilities.deps.json
 D:\Project\NetCore\NetCoreApp\NetCoreApp.Utilities\bin\Debug\netcoreapp2.0\NetCoreApp.Utilities.dll
 D:\Project\NetCore\NetCoreApp\NetCoreApp.Utilities\bin\Debug\netcoreapp2.0\NetCoreApp.Utilities.pdb
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Utilities\obj\Debug\netcoreapp2.0\NetCoreApp.Utilities.csprojAssemblyReference.cache
 D:\Project\NetCore\NetCoreApp\NetCoreApp.Utilities\obj\Debug\netcoreapp2.0\NetCoreApp.Utilities.AssemblyInfoInputs.cache
 D:\Project\NetCore\NetCoreApp\NetCoreApp.Utilities\obj\Debug\netcoreapp2.0\NetCoreApp.Utilities.AssemblyInfo.cs
 D:\Project\NetCore\NetCoreApp\NetCoreApp.Utilities\obj\Debug\netcoreapp2.0\NetCoreApp.Utilities.dll

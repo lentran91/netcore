@@ -1,8 +1,13 @@
 D:\Project\NetCore\NetCoreApp\NetCoreApp.Data\bin\Debug\netcoreapp2.0\NetCoreApp.Data.deps.json
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Data\bin\Debug\netcoreapp2.0\NetCoreApp.Data.runtimeconfig.json
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Data\bin\Debug\netcoreapp2.0\NetCoreApp.Data.runtimeconfig.dev.json
 D:\Project\NetCore\NetCoreApp\NetCoreApp.Data\bin\Debug\netcoreapp2.0\NetCoreApp.Data.dll
 D:\Project\NetCore\NetCoreApp\NetCoreApp.Data\bin\Debug\netcoreapp2.0\NetCoreApp.Data.pdb
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Data\bin\Debug\netcoreapp2.0\NetCoreApp.Infrastructure.dll
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Data\bin\Debug\netcoreapp2.0\NetCoreApp.Infrastructure.pdb
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Data\obj\Debug\netcoreapp2.0\NetCoreApp.Data.csprojAssemblyReference.cache
 D:\Project\NetCore\NetCoreApp\NetCoreApp.Data\obj\Debug\netcoreapp2.0\NetCoreApp.Data.AssemblyInfoInputs.cache
 D:\Project\NetCore\NetCoreApp\NetCoreApp.Data\obj\Debug\netcoreapp2.0\NetCoreApp.Data.AssemblyInfo.cs
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Data\obj\Debug\netcoreapp2.0\NetCoreApp.Data.csproj.CopyComplete
 D:\Project\NetCore\NetCoreApp\NetCoreApp.Data\obj\Debug\netcoreapp2.0\NetCoreApp.Data.dll
 D:\Project\NetCore\NetCoreApp\NetCoreApp.Data\obj\Debug\netcoreapp2.0\NetCoreApp.Data.pdb
-D:\Project\NetCore\NetCoreApp\NetCoreApp.Data\obj\Debug\netcoreapp2.0\NetCoreApp.Data.csprojAssemblyReference.cache

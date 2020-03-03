@@ -1,4 +1,6 @@
 D:\Project\NetCore\NetCoreApp\NetCoreApp.Data.EF\bin\Debug\netcoreapp2.0\NetCoreApp.Data.EF.deps.json
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Data.EF\bin\Debug\netcoreapp2.0\NetCoreApp.Data.EF.runtimeconfig.json
+D:\Project\NetCore\NetCoreApp\NetCoreApp.Data.EF\bin\Debug\netcoreapp2.0\NetCoreApp.Data.EF.runtimeconfig.dev.json
 D:\Project\NetCore\NetCoreApp\NetCoreApp.Data.EF\bin\Debug\netcoreapp2.0\NetCoreApp.Data.EF.dll
 D:\Project\NetCore\NetCoreApp\NetCoreApp.Data.EF\bin\Debug\netcoreapp2.0\NetCoreApp.Data.EF.pdb
 D:\Project\NetCore\NetCoreApp\NetCoreApp.Data.EF\bin\Debug\netcoreapp2.0\NetCoreApp.Data.dll
